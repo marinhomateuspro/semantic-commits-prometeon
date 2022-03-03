@@ -80,4 +80,4 @@ git push
 
 - After performing a push on the remote repository, make a pull request inside Github by selecting the main branch and the branch related to the resolved issue and wait for the project admin's approval.
 
-<br>[⬆ Voltar ao top](#padrões-de-commits-) <br>
+<br>[⬆ Back to top](#padrões-de-commits-) <br>
